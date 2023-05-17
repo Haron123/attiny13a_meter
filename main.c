@@ -80,7 +80,7 @@ int main(void)
 	uint32_t current = 0;
 
 	uint32_t ref_voltage = get_voltage_ref();
-    uint32_t microv_per_adc = get_microv_per_adc(ref_voltage);
+        uint32_t microv_per_adc = get_microv_per_adc(ref_voltage);
 
 	ADMUX = (0 << REFS0) | (0b01 << MUX0); // Set voltage ref to vcc and use PB2
 	while(1)

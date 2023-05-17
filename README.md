@@ -16,3 +16,7 @@ voltage drop of the shunt resistor
   I quickly sketches how my circuit for this example code looks :
   ![alt text](https://i.imgur.com/a6SrCUI.png)
   
+  
+  Picture that shows the result of the Example code 
+  ![alt text](https://imgur.com/8Xq9tbq.png)
+  
